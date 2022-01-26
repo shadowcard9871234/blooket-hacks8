@@ -15,6 +15,6 @@
     (Inspect anywhere on the top find a console tab. Paste JS into console and press enter)
 
 - Method 2- Bookmark
-    (Make a bookmark with the js in it. It must start with "javascript:"
+    (Make a bookmark with the js in it. It must start with "javascript:")
 
 ---
